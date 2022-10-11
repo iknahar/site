@@ -1,7 +1,7 @@
 <?php
 
 	// site owner
-	$site_name = 'Kamrun Nahar HTML5 Template';
+	$site_name = 'Kamrun Nahar';
 	$sender_domain = 'info@iknahar.com';
 	$to = 'kamrun@iknahar.com';
 	
