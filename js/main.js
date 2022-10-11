@@ -11,7 +11,7 @@
   var overlay_1, overlay_2, one_page_content, tick;
   var first_load = true;
   var homeLoaded = false;
-  var autoplay = false;
+  var autoplay = true;
 
   /* DOCUMENT LOAD */
   $(function () {
